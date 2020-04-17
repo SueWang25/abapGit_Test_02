@@ -11,3 +11,4 @@ WRITE:'abapGit Test'.
 WRITE:'added by ABAP Development Tools'.
 WRITE:'added for feature branch'.
 WRITE:'added for feature branch - 02'.
+WRITE:'added for feature branch - 03'.
